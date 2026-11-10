@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jmespath/go-jmespath/commit/b0104c826a24d7c202da8e1dbfb9ea4cfa35d774",
       "git:hexsha": "b0104c826a24d7c202da8e1dbfb9ea4cfa35d774",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jmespath/go-jmespath/commit/4fc9c086304a9794c7f5f3c570f4290ba18b79d0",
